@@ -1,0 +1,2 @@
+# Arima
+For new comers
